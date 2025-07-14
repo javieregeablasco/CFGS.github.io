@@ -2,7 +2,7 @@
 title: UD. 1.1 - User Interface, User Experience UI/UX  
 subtitle: Módulo Diseño de Interfaces Web
 author: Javier Egea Blasco  
-year: 24-25  
+year: Año 24-25  
 keywords: DAW, DIW
 layout: default  
 ---
