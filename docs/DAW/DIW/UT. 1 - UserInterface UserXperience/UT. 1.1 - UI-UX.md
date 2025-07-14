@@ -1,5 +1,5 @@
 ---
-title: UD. 1.1 - User Interface, User Experience UI/UXX  
+title: UD. 1.1 - User Interface, User Experience UI/UX  
 author: Javier Egea Blasco  
 year: 24-25  
 keywords: DAW, DIW
@@ -32,7 +32,7 @@ layout: default
 
 | **Licencia Creative Commons:** | |
 | - | - |
-| <div><img src="./img/by-nc-nd-eu_.png" alt="Licencia" style="width:40%;"></div> | **Reconocimiento-NoComercial-CompartirIgual CC BY-NC-SA:** No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de la cuales se debe hace con una licencia igual a la que regula la obra original. | 
+| <img src="./img/by-nc-nd-eu_.png" alt="Licencia" style="width:70%;"> | **Reconocimiento-NoComercial-CompartirIgual CC BY-NC-SA:** No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de la cuales se debe hace con una licencia igual a la que regula la obra original. | 
   
  
 
