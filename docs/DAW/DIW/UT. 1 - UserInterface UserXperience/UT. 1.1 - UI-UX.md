@@ -5,7 +5,7 @@ Año: 24-25
 Palabras clave: DAW, DIW  
 ---
 <div>
-  <img src="./img/uiux.webp" width="75%">
+  <!-- <img src="./img/uiux.webp" width="75%"> -->
 </div>
 
 <br>
@@ -27,7 +27,7 @@ Palabras clave: DAW, DIW
 
 | **Licencia Creative Commons:** ||
 | - | - |
-| <img src="./img/by-nc-nd-eu_.png" width=90%> | **Reconocimiento-NoComercial-CompartirIgual CC BY-NC-SA:** No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de la cuales se debe hace con una licencia igual a la que regula la obra original. |
+<!-- | <img src="./img/by-nc-nd-eu_.png" width=90%> | **Reconocimiento-NoComercial-CompartirIgual CC BY-NC-SA:** No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de la cuales se debe hace con una licencia igual a la que regula la obra original. | -->
 ---  
  
 
@@ -99,7 +99,7 @@ Dentro de la IPO encontramos:
 >**Interfaz de Usuario (UI - User Interface)**  
 
 <div align=center>
-  <img src="./img/ui.png" width="65%">
+  <!-- <img src="./img/ui.png" width="65%"> -->
 </div>
 <br>
 
@@ -115,7 +115,7 @@ La **Interfaz de Usuario** es el medio a través del cual los usuarios interact�
 >**Experiencia de Usuario (UX - User Experience)** 
 
 <div align=center>
-  <img src="./img/ux.png" width="50%">
+  <!-- <img src="./img/ux.png" width="50%"> -->
 </div>
 <br>
 
@@ -133,14 +133,14 @@ La **interfaz web** o **interfaz de usuario** es el punto de interacción entre 
 
 Muchos de los componentes de una interfaz web, como la cabecera, los menús de navegación, el cuerpo, la barra lateral y el pie de página, se replican en la mayoría de los sitios web.  
 <div align=center>
-  <img src="./img/estructura.png" width="60%">
+  <!-- <img src="./img/estructura.png" width="60%"> -->
 </div>
 <br>
 
 Si convertimos esta estructura a código HTML, obtendremos el siguiente resultado.
 
 <div align=center>
-  <img src="./img/estructura2.png" width="60%">
+  <!-- <img src="./img/estructura2.png" width="60%"> -->
 </div>
 <br>
 
@@ -209,7 +209,7 @@ Dentro de los elementos del diseño de interfaces se distinguen cuatro grupos:
 **Los elementos conceptuales** son aquellos que son presentes en el diseño, pero que no son visibles a la vista. El punto, la línea, el plano y el volumen son la base del diseño y sobre ellos se asientan los otros elementos.
 
 <div align=center>
-  <img src="./img/conceptual.png" width="40%">
+  <!-- <img src="./img/conceptual.png" width="40%"> -->
 </div>
 <br>
 <br>
@@ -223,7 +223,7 @@ Identificar los elementos conceptuales de la siguiente página web.
 En el diseño web, los elementos visuales fundamentales incluyen **forma, color, medida y textura**.  
 
 <div align=center>
-  <img src="./img/elementVisual.png" width="40%">
+  <!-- <img src="./img/elementVisual.png" width="40%"> -->
 </div>
 <br>
 <br>
@@ -232,17 +232,17 @@ En el diseño web, los elementos visuales fundamentales incluyen **forma, color,
 Define la estructura visual de los elementos dentro de una página web. Puede ser:  
 - **Geométrica**: Cuadrados, círculos, triángulos, usados en botones, iconos o tarjetas.
     
-    <a href="http://www.usefulsimple.co.uk/"><img src="./img/geometrica.png"></a>
+    <!-- <a href="http://www.usefulsimple.co.uk/"><img src="./img/geometrica.png"></a> -->
 <br>
 
 - **Orgánica**: Formas irregulares o naturales, aportan dinamismo y originalidad.  
 
-   <a href="http://www.sageblue.com/">![alt text](./img/natural.png)</a>
+   <!-- <a href="http://www.sageblue.com/">![alt text](./img/natural.png)</a> -->
 <br>
 
 - **Abstracta**: Se utilizan para generar impacto visual sin representar objetos reales.  
 
-   <a href="https://lovefreelancing.com/">![alt text](./img/abstract.png)</a>
+   <!-- <a href="https://lovefreelancing.com/">![alt text](./img/abstract.png)</a> -->
 <br>
 
 ### 5.2.2. - Color  
@@ -254,7 +254,7 @@ Influye en la percepción y la emoción del usuario. Se utiliza para:
 
 - **Crear contrastes** y mejorar la accesibilidad.  
 
-    <img src="./img/contrast.png" width=35%>
+    <!-- <img src="./img/contrast.png" width=35%> -->
 <br>
 
 - **Diferenciar secciones** o establecer jerarquías.  
@@ -283,7 +283,7 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
 Aunque el diseño web es bidimensional, se pueden simular texturas para dar profundidad y sensación táctil:  
 - **Fondos con degradados o patrones** para misterio y sofisticación.  
 
-    <img src="./img/degradados.jpg" width=75%>
+    <!-- <img src="./img/degradados.jpg" width=75%> -->
 <br>
 
 - **Sombras y efectos de iluminación** para realismo.  
@@ -293,7 +293,7 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
 
 - **Superposiciones y transparencias** para dinamismo.  
 
-    <img src="./img/superposicion.png" width=75%>
+    <!-- <img src="./img/superposicion.png" width=75%> -->
 <br>
 
 ### 5.2.5. - Tarea RA1-CEc  
@@ -349,7 +349,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 ## 5.3. - Elementos de relación
 Este grupo de elementos está relacionado con la ubicación y la interrelación de las formas dentro de una composición. La dirección y la posición pueden ser percibidas mientras que el espacio y la gravedad son sentidas.
 <div align=center>
-  <img src="./img/relacion.png" width="40%">
+  <!-- <img src="./img/relacion.png" width="40%"> -->
 </div>
 <br>
 <br>
@@ -380,7 +380,7 @@ Este grupo de elementos está relacionado con la ubicación y la interrelación 
 En el diseño web, los **elementos prácticos** son aquellos que van más allá de la estética y se centran en la comunicación y la experiencia del usuario. Estos incluyen, entre otros, la representación, el significado y la función
 
 <div align=center>
-  <img src="./img/elementosPracticos.png" width="40%">
+  <!-- <img src="./img/elementosPracticos.png" width="40%"> -->
 </div>
 <br>
 <br>
