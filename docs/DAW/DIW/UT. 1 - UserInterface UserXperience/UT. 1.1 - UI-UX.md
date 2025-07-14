@@ -1,4 +1,3 @@
-
 ---
 title: UD. 1.1 - User Interface, User Experience UI/UX  
 author: Javier Egea Blasco  
@@ -6,6 +5,9 @@ year: 24-25
 keywords: DAW, DIW
 layout: default  
 ---
+
+
+
 
 <div>
   <!-- <img src="./img/uiux.webp" width="75%"> -->
