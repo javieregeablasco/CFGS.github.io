@@ -1,10 +1,10 @@
 
----
+
 Título: UD. 1.1 - User Interface, User Experience UI/UX  
 Autor: Javier Egea Blasco  
 Año: 24-25  
 Palabras clave: DAW, DIW  
----
+
 <div>
   <!-- <img src="./img/uiux.webp" width="75%"> -->
 </div>
