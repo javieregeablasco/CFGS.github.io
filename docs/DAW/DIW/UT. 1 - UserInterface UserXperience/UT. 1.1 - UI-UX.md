@@ -30,7 +30,7 @@ layout: default
 
 | **Licencia Creative Commons:** | |
 | - | - |
-| ![alt text](./img/by-nc-nd-eu_.png) | **Reconocimiento-NoComercial-CompartirIgual CC BY-NC-SA:** No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de la cuales se debe hace con una licencia igual a la que regula la obra original. | 
+| <div><img src="./img/by-nc-nd-eu_.png" alt="Licencia" style="width:40%;"></div> | **Reconocimiento-NoComercial-CompartirIgual CC BY-NC-SA:** No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de la cuales se debe hace con una licencia igual a la que regula la obra original. | 
   
  
 
