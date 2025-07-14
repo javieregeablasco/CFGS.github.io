@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).  
-[link 2](https://github.com/javieregeablasco/CFGS.github.io/blob/master/docs/DAW/DIW/UT.%201%20-%20UserInterface%20UserXperience/UT.%201.1%20-%20UI-UX.md).
+[link 2](./docs/DAW/DIW/UT.%201%20-%20UserInterface%20UserXperience/UT.%201.1%20-%20UI-UX.html).
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
