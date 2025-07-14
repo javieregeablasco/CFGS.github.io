@@ -1,9 +1,10 @@
 
-
+---
 Título: UD. 1.1 - User Interface, User Experience UI/UX  
 Autor: Javier Egea Blasco  
 Año: 24-25  
 Palabras clave: DAW, DIW  
+---
 
 <div>
   <!-- <img src="./img/uiux.webp" width="75%"> -->
@@ -26,10 +27,10 @@ Palabras clave: DAW, DIW
 
 <br>
 
-| **Licencia Creative Commons:** ||
+| **Licencia Creative Commons:** | |
 | - | - |
 | ![alt text](./img/by-nc-nd-eu_.png) | **Reconocimiento-NoComercial-CompartirIgual CC BY-NC-SA:** No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de la cuales se debe hace con una licencia igual a la que regula la obra original. | 
----  
+  
  
 
 # 1. Introducción
