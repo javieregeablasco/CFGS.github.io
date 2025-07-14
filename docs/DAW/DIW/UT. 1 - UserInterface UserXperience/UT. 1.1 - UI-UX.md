@@ -1,9 +1,10 @@
 
 ---
-Título: UD. 1.1 - User Interface, User Experience UI/UX  
-Autor: Javier Egea Blasco  
-Año: 24-25  
-Palabras clave: DAW, DIW  
+title: UD. 1.1 - User Interface, User Experience UI/UX  
+author: Javier Egea Blasco  
+year: 24-25  
+keywords: DAW, DIW
+layout: default  
 ---
 
 <div>
