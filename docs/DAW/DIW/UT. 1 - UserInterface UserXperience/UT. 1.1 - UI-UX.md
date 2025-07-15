@@ -13,7 +13,7 @@ layout: default
 
 <br>
 
-| **Resultados de aprendizaje de la unidad didáctica:** |
+| **Resultados de aprendizaje de la unidad didáctica (10px):** |
 |-|
 | **RA. 1:** Planifica la creación de una interfaz web valorando y aplicando especificaciones de diseño.|  
 
