@@ -258,6 +258,7 @@ Define la estructura visual de los elementos dentro de una página web. Puede se
 <br>
 
 - **Abstracta**: Se utilizan para generar impacto visual sin representar objetos reales.  
+
   <div style="text-align:center">
      <a href="https://lovefreelancing.com/"><img src="./img/abstract.png"></a>
   </div>
@@ -268,18 +269,27 @@ Define la estructura visual de los elementos dentro de una página web. Puede se
 ### 5.2.2. - Color  
 Influye en la percepción y la emoción del usuario. Se utiliza para:  
 - **Generar identidad visual** (branding).  
+  
+  <div style="text-align:center">
+     <img src="./img/color.png">
+  </div>
 
-    ![alt text](./img/color.png)
 <br>
 
 - **Crear contrastes** y mejorar la accesibilidad.  
 
-    <!-- <img src="./img/contrast.png" width=35%> -->
-<br>
+  <div style="text-align:center">
+     <img src="./img/contrast.png" width=35%>
+  </div>
+ 
+ <br>
 
 - **Diferenciar secciones** o establecer jerarquías.  
 
-    ![alt text](./img/secciones.png)
+  <div style="text-align:center">
+     <img src="./img/secciones.png">
+  </div>
+
 <br>
 
 ### 5.2.3. - Medida  
