@@ -40,8 +40,9 @@ Independientemente del dispositivo, la web representa la imagen de una entidad, 
 
 # 2. Evolución del diseño web
 
-
-![alt text](./img/evolucionhtml.png)
+<div style="text-align: center">
+  <img src="./img/evolucionhtml.png">
+</div>
 
 <br>
 
