@@ -107,7 +107,7 @@ Dentro de la IPO encontramos:
 
 ## 3.2. - Interfaz de Usuario (UI - User Interface)  
 
-<div style ="text-align=center">
+<div style="text-align=center">
   <img src="./img/ui.png" width="65%">
 </div>
 <br>
@@ -123,8 +123,8 @@ La **Interfaz de Usuario** es el medio a trav√©s del cual los usuarios interact√
 
 ## 3.3. - Experiencia de Usuario (UX - User Experience) 
 
-<div align=center>
-  <!-- <img src="./img/ux.png" width="50%"> -->
+<div style="align=center">
+  <img src="./img/ux.png" width="50%">
 </div>
 <br>
 
