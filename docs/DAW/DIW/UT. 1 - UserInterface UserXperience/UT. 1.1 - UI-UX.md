@@ -11,7 +11,7 @@ layout: default
 
 
 <div>
-  <!-- <img src="./img/uiux.webp" width="75%"> -->
+  <img src="./img/uiux.webp" width="75%">
 </div>
 
 <br>
