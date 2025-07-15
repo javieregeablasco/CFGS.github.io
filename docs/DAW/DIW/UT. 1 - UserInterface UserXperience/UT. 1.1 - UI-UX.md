@@ -70,7 +70,7 @@ Independientemente del dispositivo, la web representa la imagen de una entidad, 
 
 <br>
 
->**2007-2012: Móviles y responsive design**  
+**2007-2012: Móviles y responsive design**  
 - **2007:** Apple lanza el iPhone.  
 - **2010:** Ethan Marcotte introduce el término **Responsive Web Design (RWD)**, impulsando el diseño adaptable a cualquier dispositivo.  
 - **2011:** HTML5 y CSS3 se consolidan, permitiendo animaciones sin Flash.  
@@ -78,7 +78,7 @@ Independientemente del dispositivo, la web representa la imagen de una entidad, 
 
 <br>
 
->**2013-2019: UI/UX, frameworks y accesibilidad**  
+**2013-2019: UI/UX, frameworks y accesibilidad**  
 - **2013:** Google presenta Material Design, estableciendo un estándar visual con sombras y animaciones realistas.  
 - **2015:** Se popularizan frameworks como Bootstrap y Foundation para acelerar el desarrollo web.  
 - **2016:** La velocidad y la accesibilidad se convierten en prioridades con la optimización para SEO y Core Web Vitals.  
@@ -86,7 +86,7 @@ Independientemente del dispositivo, la web representa la imagen de una entidad, 
 
 <br>
 
->**2020-presente: IA, diseño sin código y Web 3.0**  
+**2020-presente: IA, diseño sin código y Web 3.0**  
 - **2020:** Herramientas como Webflow y Figma facilitan la creación de sitios sin necesidad de programar.  
 - **2022:** La IA empieza a usarse para generar diseños y mejorar la experiencia del usuario.  
 - **2024-2025:** Web 3.0, con blockchain y aplicaciones descentralizadas, empieza a redefinir la propiedad y seguridad en la web.  
@@ -217,8 +217,8 @@ Dentro de los elementos del diseño de interfaces se distinguen cuatro grupos:
 ## 5.1. - Elementos conceptuales
 **Los elementos conceptuales** son aquellos que son presentes en el diseño, pero que no son visibles a la vista. El punto, la línea, el plano y el volumen son la base del diseño y sobre ellos se asientan los otros elementos.
 
-<div align=center>
-  <!-- <img src="./img/conceptual.png" width="40%"> -->
+<div style="text-align:center">
+  <img src="./img/conceptual.png" width="40%">
 </div>
 <br>
 <br>
