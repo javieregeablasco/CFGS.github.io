@@ -220,19 +220,21 @@ Dentro de los elementos del diseño de interfaces se distinguen cuatro grupos:
 <div style="text-align:center">
   <img src="./img/conceptual.png" width="40%">
 </div>
-<br>
+
 <br>
 
 >**Ejercicio**  
 Identificar los elementos conceptuales de la siguiente página web.
 
-![alt text](./img/conceptualEjercicio.png)
+<div style="text-align:center">
+  <img src="./img/conceptualEjercicio.png">
+</div>
 
 ## 5.2. - Elementos visuales
 En el diseño web, los elementos visuales fundamentales incluyen **forma, color, medida y textura**.  
 
-<div align=center>
-  <!-- <img src="./img/elementVisual.png" width="40%"> -->
+<div style="text-align:center">
+  <img src="./img/elementVisual.png" width="40%">
 </div>
 <br>
 <br>
