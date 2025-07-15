@@ -297,19 +297,17 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
 - **Tipografía**: Tamaños de fuente adaptables para distintos dispositivos o contenidos.
 
   <div style="text-align:center">
-     <img src="./img/fonsize.webp">
+     <img src="./img/fonsize.webp" width="75%">
   </div>
 
-<br>
 <br>
 
 - **Imágenes y gráficos**: Se escalan correctamente para mantener calidad y rendimiento.
 
   <div style="text-align:center">
-     <img src="./img/image.webp">
+     <img src="./img/image.webp" width="75%" >
   </div>
 
-<br>
 <br>
 
 - **Espaciado y proporción**: Márgenes, padding y grids permiten un diseño equilibrado.
@@ -319,17 +317,15 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
   </div>
 
 <br>
-<br>
 
 ### 5.2.4. - Textura  
 Aunque el diseño web es bidimensional, se pueden simular texturas para dar profundidad y sensación táctil:  
 - **Fondos con degradados o patrones** para misterio y sofisticación.  
 
   <div style="text-align:center">
-    <img src="./img/degradados.jpg" width=75%>
+    <img src="./img/degradados.jpg" width="75%">
   </div>
 
-<br>
 <br>
 
 - **Sombras y efectos de iluminación** para realismo.  
@@ -344,7 +340,7 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
 - **Superposiciones y transparencias** para dinamismo.  
 
   <div style="text-align:center">
-    <img src="./img/superposicion.png" width=75%>
+    <img src="./img/superposicion.png" width="75%">
   </div>
 
 <br>
