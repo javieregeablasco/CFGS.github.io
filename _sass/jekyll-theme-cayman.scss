@@ -188,17 +188,20 @@ a {
     max-width: 80rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.1rem;
+    // font-size: 1.1rem;
+    font-size: 1.0rem;
   }
 
   @include medium {
     padding: 2rem 4rem;
-    font-size: 1.1rem;
+    // font-size: 1.1rem;
+    font-size: 0.9rem;
   }
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 1rem;
+    // font-size: 1rem;
+    font-size: 0.8rem;
   }
   
   kbd {
