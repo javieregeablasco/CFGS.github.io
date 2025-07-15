@@ -279,7 +279,7 @@ Influye en la percepción y la emoción del usuario. Se utiliza para:
 - **Crear contrastes** y mejorar la accesibilidad.  
 
   <div style="text-align:center">
-     <img src="./img/contrast.png" width=35%>
+     <img src="./img/contrast.png" width="35%">
   </div>
  
  <br>
