@@ -296,29 +296,44 @@ Influye en la percepción y la emoción del usuario. Se utiliza para:
 Hace referencia al tamaño y la escala de los elementos en una interfaz:  
 - **Tipografía**: Tamaños de fuente adaptables para distintos dispositivos o contenidos.
 
-    ![alt text](./img/fonsize.webp)
+  <div style="text-align:center">
+     <img src="./img/fonsize.webp">
+  </div>
+
 <br>
 
 - **Imágenes y gráficos**: Se escalan correctamente para mantener calidad y rendimiento.
 
-    ![alt text](./img/image.webp)
+  <div style="text-align:center">
+     <img src="./img/image.webp">
+  </div>
+
 <br>
 
 - **Espaciado y proporción**: Márgenes, padding y grids permiten un diseño equilibrado.
 
-    ![alt text](./img/marginpadding.png)
+  <div style="text-align:center">
+     <img src="./img/marginpadding.png">
+  </div>
+
 <br>
 
 ### 5.2.4. - Textura  
 Aunque el diseño web es bidimensional, se pueden simular texturas para dar profundidad y sensación táctil:  
 - **Fondos con degradados o patrones** para misterio y sofisticación.  
 
-    <!-- <img src="./img/degradados.jpg" width=75%> -->
+  <div style="text-align:center">
+    <img src="./img/degradados.jpg" width=75%>
+  </div>
+
 <br>
 
 - **Sombras y efectos de iluminación** para realismo.  
 
-    ![alt text](./img/iluminacion.gif)
+  <div style="text-align:center">
+    <img src="./img/iluminacion.gif">
+  </div>
+   
 <br>
 
 - **Superposiciones y transparencias** para dinamismo.  
