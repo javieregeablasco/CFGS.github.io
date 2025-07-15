@@ -338,7 +338,10 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
 
 - **Superposiciones y transparencias** para dinamismo.  
 
-    <!-- <img src="./img/superposicion.png" width=75%> -->
+  <div style="text-align:center">
+    <img src="./img/superposicion.png" width=75%>
+  </div>
+
 <br>
 
 ### 5.2.5. - Tarea RA1-CEc  
