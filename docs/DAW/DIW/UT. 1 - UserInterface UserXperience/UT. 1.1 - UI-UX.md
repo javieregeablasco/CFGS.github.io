@@ -46,25 +46,28 @@ Independientemente del dispositivo, la web representa la imagen de una entidad, 
 
 <br>
 
->**1991-1994 inicios de la web**  
+**1991-1994 inicios de la web**  
 - **1991:** Tim Berners-Lee crea la primera página web con solo texto y enlaces en HTML.  
-- **1993:** Aparece el primer navegador gráfico, Mosaic, permitiendo imágenes junto con texto.  
+- **1993:** Mosaic, primer navegador, permitiendo imágenes junto con texto.  
 - **1994:** Netscape Navigator introduce mejoras en el renderizado de páginas y establece el estándar de navegación.  
+
 <br>
 
->**1995-1999: HTML y el diseño en tablas**  
-- **1995:** Se lanza JavaScript, permitiendo interactividad en el navegador.  
+**1995-1999: HTML y el diseño en tablas**  
+- **1995:** Lanzamiento de JavaScript que aporta interactividad en el navegador.  
 - **1996:** Aparece CSS (Cascading Style Sheets) para separar contenido y presentación. También surge Flash, revolucionando la animación en la web.  
 - **1997:** HTML 4.0 se populariza con el uso de tablas para estructurar páginas web.  
 - **1998:** Google aparece y cambia la forma de buscar información en la web.  
 - **1999:** Se consolida el uso de Flash y JavaScript en la creación de interfaces interactivas.  
+
 <br>
 
->**2000-2006: CSS y el auge del diseño web**  
+**2000-2006: CSS y el auge del diseño web**  
 - **2000:** Se adopta CSS para diseños, reemplazando las tablas.  
 - **2003:** Aparece WordPress, facilitando la creación de sitios web sin necesidad de programar.  
 - **2004:** Se popularizan las técnicas de diseño líquido y adaptable.  
 - **2005:** Nace AJAX, permitiendo recargar contenido sin necesidad de actualizar la página completa.  
+
 <br>
 
 >**2007-2012: Móviles y responsive design**  
@@ -72,6 +75,7 @@ Independientemente del dispositivo, la web representa la imagen de una entidad, 
 - **2010:** Ethan Marcotte introduce el término **Responsive Web Design (RWD)**, impulsando el diseño adaptable a cualquier dispositivo.  
 - **2011:** HTML5 y CSS3 se consolidan, permitiendo animaciones sin Flash.  
 - **2012:** Se expande el diseño minimalista con estilos planos y colores vibrantes.  
+
 <br>
 
 >**2013-2019: UI/UX, frameworks y accesibilidad**  
@@ -79,17 +83,18 @@ Independientemente del dispositivo, la web representa la imagen de una entidad, 
 - **2015:** Se popularizan frameworks como Bootstrap y Foundation para acelerar el desarrollo web.  
 - **2016:** La velocidad y la accesibilidad se convierten en prioridades con la optimización para SEO y Core Web Vitals.  
 - **2019:** Dark mode se convierte en una tendencia en muchas interfaces web.  
+
 <br>
 
 >**2020-presente: IA, diseño sin código y Web 3.0**  
 - **2020:** Herramientas como Webflow y Figma facilitan la creación de sitios sin necesidad de programar.  
 - **2022:** La IA empieza a usarse para generar diseños y mejorar la experiencia del usuario.  
 - **2024-2025:** Web 3.0, con blockchain y aplicaciones descentralizadas, empieza a redefinir la propiedad y seguridad en la web.  
+
 <br>
 
-# 3. IPO, UI y UX
->**Interacción Persona-Ordenador (IPO)**  
-
+# 3. Conceptos de IPO, UI y UX
+## 3.1. - Interacción Persona-Ordenador (IPO)  
 La **Interacción Persona-Ordenador (IPO)** es la ciencia que estudia la relación entre los seres humanos y los sistemas informáticos. Su objetivo principal es diseñar interfaces que permitan una comunicación eficiente, intuitiva y accesible entre los usuarios y las computadoras.  
 
 Dentro de la IPO encontramos:  
@@ -100,10 +105,10 @@ Dentro de la IPO encontramos:
 
 <br>
 
->**Interfaz de Usuario (UI - User Interface)**  
+## 3.2. - Interfaz de Usuario (UI - User Interface)  
 
-<div align=center>
-  <!-- <img src="./img/ui.png" width="65%"> -->
+<div style ="text-align=center">
+  <img src="./img/ui.png" width="65%">
 </div>
 <br>
 
