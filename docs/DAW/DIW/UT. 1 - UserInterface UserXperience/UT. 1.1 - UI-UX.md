@@ -10,8 +10,9 @@ layout: default
 
 
 
+  ![alt text](./img/uiux.webp)
 <div>
-  <img src="./img/uiux.webp" width="75%">
+  <img src="./img/uiux.webp" width="75%" style="text-align: center" >
 </div>
 
 <br>
