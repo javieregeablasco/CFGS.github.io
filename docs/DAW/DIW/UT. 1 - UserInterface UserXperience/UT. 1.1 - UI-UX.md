@@ -141,7 +141,7 @@ Los principales factores que influyen en la UX son:
 La **interfaz web** o **interfaz de usuario** es el punto de interacción entre el usuario y un sitio web o una aplicación. Para que sea efectiva, debe ser intuitiva, accesible y atractiva. 
 
 Muchos de los componentes de una interfaz web, como la cabecera, los menús de navegación, el cuerpo, la barra lateral y el pie de página, se replican en la mayoría de los sitios web.  
-<div align=center>
+<div style="text-align:center">
   <!-- <img src="./img/estructura.png" width="60%"> -->
 </div>
 <br>
