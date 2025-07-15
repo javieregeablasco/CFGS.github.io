@@ -223,7 +223,7 @@ Dentro de los elementos del diseño de interfaces se distinguen cuatro grupos:
 
 <br>
 
->**Ejercicio**  
+**Ejercicio**  
 Identificar los elementos conceptuales de la siguiente página web.
 
 <div style="text-align:center">
