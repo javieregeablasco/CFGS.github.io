@@ -301,6 +301,7 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
   </div>
 
 <br>
+<br>
 
 - **Imágenes y gráficos**: Se escalan correctamente para mantener calidad y rendimiento.
 
@@ -309,6 +310,7 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
   </div>
 
 <br>
+<br>
 
 - **Espaciado y proporción**: Márgenes, padding y grids permiten un diseño equilibrado.
 
@@ -316,6 +318,7 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
      <img src="./img/marginpadding.png">
   </div>
 
+<br>
 <br>
 
 ### 5.2.4. - Textura  
@@ -327,6 +330,7 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
   </div>
 
 <br>
+<br>
 
 - **Sombras y efectos de iluminación** para realismo.  
 
@@ -335,6 +339,7 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
   </div>
    
 <br>
+<br>
 
 - **Superposiciones y transparencias** para dinamismo.  
 
@@ -342,6 +347,7 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
     <img src="./img/superposicion.png" width=75%>
   </div>
 
+<br>
 <br>
 
 ### 5.2.5. - Tarea RA1-CEc  
