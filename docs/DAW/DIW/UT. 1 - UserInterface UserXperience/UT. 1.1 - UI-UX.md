@@ -121,7 +121,7 @@ La **Interfaz de Usuario** es el medio a trav√©s del cual los usuarios interact√
 
 <br>
 
->**Experiencia de Usuario (UX - User Experience)** 
+## 3.3. - Experiencia de Usuario (UX - User Experience) 
 
 <div align=center>
   <!-- <img src="./img/ux.png" width="50%"> -->
