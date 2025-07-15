@@ -142,14 +142,14 @@ La **interfaz web** o **interfaz de usuario** es el punto de interacción entre 
 
 Muchos de los componentes de una interfaz web, como la cabecera, los menús de navegación, el cuerpo, la barra lateral y el pie de página, se replican en la mayoría de los sitios web.  
 <div style="text-align:center">
-  <!-- <img src="./img/estructura.png" width="60%"> -->
+  <img src="./img/estructura.png" width="60%">
 </div>
 <br>
 
 Si convertimos esta estructura a código HTML, obtendremos el siguiente resultado.
 
-<div align=center>
-  <!-- <img src="./img/estructura2.png" width="60%"> -->
+<div style="text-align:center">
+  <img src="./img/estructura2.png" width="60%">
 </div>
 <br>
 
