@@ -11,12 +11,13 @@ layout: default
   <img src="./img/uiux.webp" width="75%">
 </div>  
 
-
+<br>
 
 | **Resultados de aprendizaje de la unidad didáctica:** |
 |-|
 | **RA. 1:** Planifica la creación de una interfaz web valorando y aplicando especificaciones de diseño.|  
 
+<br>
 
 |**Criterios de evaluación de la unidad didáctica:**|
 |-|
@@ -25,6 +26,7 @@ layout: default
 | **CE. c&#41;** Se han analizado alternativas para la presentación de la información en documentos web.|
 | **CE. d&#41;** Se ha valorado la importancia de definir y aplicar la guía de estilo en el desarrollo de una aplicación web.|  
 
+<br>
 
 | **Licencia Creative Commons:** | |
 | - | - |
