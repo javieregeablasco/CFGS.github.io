@@ -101,15 +101,15 @@ Dentro de la IPO encontramos:
 - **Ergonomía y usabilidad**: Se busca que los sistemas sean fáciles de usar y reduzcan la carga cognitiva del usuario.  
 - **Modelos de interacción**: Analiza cómo las personas perciben, aprenden y usan la tecnología.  
 - **Diseño centrado en el usuario**: Enfatiza la importancia de diseñar software basado en las necesidades y comportamientos del usuario final.  
-- **Accesibilidad**: Considera a usuarios con diferentes capacidades físicas o cognitivas para garantizar una experiencia inclusiva.  
-
+- **Accesibilidad**: Considera a usuarios con diferentes capacidades físicas o cognitivas para garantizar una experiencia inclusiva.
 <br>
 
 ## 3.2. - Interfaz de Usuario (UI - User Interface)  
 
-<div style="text-align=center">
+<div style="align:center">
   <img src="./img/ui.png" width="65%">
 </div>
+
 <br>
 
 La **Interfaz de Usuario** es el medio a través del cual los usuarios interactúan con un sistema o aplicación. Puede incluir elementos visuales, táctiles y auditivos. Existen distintos tipos de interfaces:  
