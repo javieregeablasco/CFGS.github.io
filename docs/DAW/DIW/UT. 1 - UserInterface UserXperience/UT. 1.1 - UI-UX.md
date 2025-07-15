@@ -6,13 +6,9 @@ year: Año 24-25
 keywords: DAW, DIW
 layout: default  
 ---
-
-
-
-
-  ![alt text](./img/uiux.webp)
-<div>
-  <img src="./img/uiux.webp" width="75%" style="text-align: center" >
+  
+<div style="text-align: center">
+  <img src="./img/uiux.webp" width="75%">
 </div>
 
 <br>
