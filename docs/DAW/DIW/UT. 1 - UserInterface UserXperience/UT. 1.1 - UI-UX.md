@@ -44,7 +44,7 @@ Las aplicaciones y sitios web son esenciales en nuestra vida diaria para consult
 Independientemente del dispositivo, la web representa la imagen de una entidad, por eso es crucial que el contenido y las funcionalidades sean atractivos, accesibles y fáciles de usar (User Experience), con un diseño agradable que capte la atención del usuario (User Interface). 
 
 # 2. Evolución del diseño web
-<br>
+
 
 ![alt text](./img/evolucionhtml.png)
 
