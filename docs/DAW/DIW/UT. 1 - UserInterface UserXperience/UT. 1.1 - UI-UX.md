@@ -791,13 +791,13 @@ Elegir una página web al azar y extraer la guía de estilos.
 <br>
 <br>
 
-:two: **Bacardi**  
+2️⃣ **Bacardi**  
 
 ![alt text](./img/bacardi.png) 
 <br>
 <br>
 
-:three: **Cruz roja Americana**    
+3️⃣ **Cruz roja Americana**    
 
 ![alt text](./img/aRedCross.png)
 <br>
