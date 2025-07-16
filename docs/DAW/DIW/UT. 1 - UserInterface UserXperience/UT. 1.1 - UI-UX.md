@@ -516,7 +516,8 @@ La psicología de la Gestalt es una corriente de la psicología moderna, surgida
 Su premisa principal es que "el todo es más que la suma de sus partes", es decir, la mente organiza la información **en patrones y estructuras significativas en lugar de procesar elementos aislados**.
 
 ### 5.5.2. - Principios de la Gestalt
-La Gestalt propone una serie de principios que explican cómo organizamos la información visual y cognitiva. En **el diseño de la UX/UI**, los principios de la Gestalt se aplican para mejorar la experiencia del usuario.
+La Gestalt propone una serie de principios que explican cómo organizamos la información visual y cognitiva. En **el diseño de la UX/UI**, los principios de la Gestalt se aplican para mejorar la experiencia del usuario.  
+<br>
 
 - **Principio de la experiencia:**  
     Este principio se basa en el hecho que la percepción del ser humano está fundamentado de acuerdo **sus propias experiencias**. Así pues, buscaremos que los diseños compartan similitudes con las experiencias de los usuarios.
@@ -524,7 +525,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/experiencia.png) 
     <br><br>
 
-    **Iconos de FontAwesome** cuyas funciones identificamos inmediatamente.  
+- **Iconos de FontAwesome** cuyas funciones identificamos inmediatamente.  
 
     ![alt text](./img/experiencia2.png)
     <br><br>
