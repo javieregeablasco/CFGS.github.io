@@ -657,7 +657,6 @@ Para facilitar la selección de colores en diseño web, existen herramientas com
 ✔ [Paletton](https://paletton.com/)  
 
 ### 5.6.4. - Ejemplos del uso de esquemas de colores en páginas web  
-<br>
 
 1️⃣ El blanco y el negro transmiten elegancia, simplicidad y eficiencia. Es el mismo que busca Apple en todos sus productos.  
 
