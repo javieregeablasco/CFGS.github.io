@@ -451,7 +451,7 @@ Este grupo de elementos está relacionado con la ubicación y la interrelación 
 - **Espacio:** El espacio (white space) es fundamental para la legibilidad y la organización del contenido.  
 
   <div style="text-align:center">
-    <img alt="alt text" src="./img/espacio.png">
+    <img alt="alt text" src="./img/espacio.jpg">
   </div>
   
   <br>
