@@ -811,6 +811,7 @@ Algunas marcas y plataformas han publicado sus guías de estilo para que los des
 - <a href="https://carbondesignsystem.com/">**Carbon Design System** (IBM)</a>
 - <a href="https://design.samsung.com/global/contents/one-ui/download/oneui_design_guide_eng.pdf">**Samsung Design** (Samsung)</a>. <a href="https://design.samsung.com/global/contents/one-ui/download/oneui_design_guide_eng.pdf">Guía de estilo en formato pdf</a>
 
+<!-- poner en otro lado no hace nada aquí -->
 # 7. Responsive design 
 ## 7.1. - ¿Qué es el Responsive Design?
 Un sitio web que no se muestra correctamente en una variedad de dispositivos genera una experiencia negativa para los usuarios. A partir de esta necesidad surge el Responsive Design.
