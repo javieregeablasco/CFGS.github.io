@@ -347,61 +347,75 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 
 **Interfaz** 1️⃣
 
-<div style="text-align:center">
-    <img src="./img/superposicion.png" width="75%">
+  <div style="text-align:center">
+    <img src="./img/ra1ceb1.png">
   </div>
-![alt text](./img/ra1ceb1.png)
 
 <br>
 
 **Interfaz** :two:
 
-![alt text](./img/ra1ceb2.png)
+  <div style="text-align:center">
+    <img src="./img/ra1ceb2.png">
+  </div>
 
 <br>
 
 **Interfaz** :three:
 
-![alt text](./img/ra1ceb3.png)
+  <div style="text-align:center">
+    <img src="./img/ra1ceb3.png">
+  </div>
 
 <br>
 
 **Interfaz** :four:
 
-![alt text](./img/ra1ceb4.png)
+  <div style="text-align:center">
+    <img src="./img/ra1ceb4.png">
+  </div>
 
 <br>
 
 **Interfaz** :five:
-
-![alt text](./img/ra1ceb5.png)
+  
+  <div style="text-align:center">
+    <img src="./img/ra1ceb5.png">
+  </div>
 
 <br>
 
 **Interfaz** :six:
 
-![alt text](./img/ra1ceb6.png)
+  <div style="text-align:center">
+    <img src="./img/ra1ceb6.png">
+  </div>
 
 <br>
 
 **Interfaz** :seven:
 
-![alt text](./img/ra1ceb7.png)
+  <div style="text-align:center">
+    <img src="./img/ra1ceb7.png">
+  </div>
 
 <br>
 
 **Interfaz** :eight:
  
-![alt text](./img/ra1ceb8.png)
+  <div style="text-align:center">
+    <img src="./img/ra1ceb8.png">
+  </div>
+
 <br>
 
 ## 5.3. - Elementos de relación
 Este grupo de elementos está relacionado con la ubicación y la interrelación de las formas dentro de una composición. La dirección y la posición pueden ser percibidas mientras que el espacio y la gravedad son sentidas.
-<div align=center>
-  <!-- <img src="./img/relacion.png" width="40%"> -->
-</div>
-<br>
-<br>
+  <div style="text-align:center">
+    <img src="./img/relacion.png" width="40%">
+  </div>
+  <br>
+  <br>
 
 - **Dirección:** Guía la mirada del usuario y se usa para organizar la información y definir el flujo de navegación. Existen tres tipos principales: **Horizontal**, **vertical** y en **diagonal o Z**.   
 
