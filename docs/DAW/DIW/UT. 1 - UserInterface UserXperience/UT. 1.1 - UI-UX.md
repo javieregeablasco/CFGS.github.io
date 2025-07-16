@@ -352,8 +352,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
   </div>
 
 <br>
-<!-- | Emoji | Código Markdown (pegar directamente) |
-| ----- | ------------------------------------ |
+<!-- 
 | 1️⃣   | `1️⃣`                                |
 | 2️⃣   | `2️⃣`                                |
 | 3️⃣   | `3️⃣`                                |
@@ -363,7 +362,8 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 | 7️⃣   | `7️⃣`                                |
 | 8️⃣   | `8️⃣`                                |
 | 9️⃣   | `9️⃣`                                |
-| 🔟    | `🔟`                                 | -->
+| 🔟    | `🔟`                                 | 
+-->
 
 **Interfaz** 2️⃣
 
@@ -734,59 +734,60 @@ Para facilitar la selección de colores en diseño web, existen herramientas com
 Las **guías de estilo** son documentos que establecen las reglas visuales y funcionales para garantizar la coherencia en una página web. Estas guías ayudan a mantener una identidad de marca clara y una experiencia de usuario uniforme en todos los dispositivos y plataformas.
 
 ## 6.1. - Elementos clave de una guía de estilo
-:one: **Logotipos y colores corporativos**  
+1️⃣ **Logotipos y colores corporativos**  
    - Logotipos de empresa. 
    - Paleta de colores.   
    - Tamaños y diseños recomendados.  
 <br>
 
-:two: **Componentes UI**  
+2️⃣ **Componentes UI**  
    - Botones, formularios, iconos y otros elementos interactivos.  
    - Consistencia en tamaños, bordes y sombreados.
 <br>
 
-:three: **Paleta de colores**  
+3️⃣ **Paleta de colores**  
    - Colores primarios y secundarios.  
    - Variaciones y usos específicos (botones, fondos, enlaces, etc.).  
    - Contraste y accesibilidad.
 <br>
 
-:four: **Tipografía**  
+4️⃣ **Tipografía**  
    - Fuentes principales y secundarias.  
    - Tamaños y pesos para títulos, subtítulos y cuerpo de texto.  
    - Espaciado entre líneas y párrafos.
 <br>
 
-:five: **Imágenes e Ilustraciones**  
+5️⃣ **Imágenes e Ilustraciones**  
    - Logotipos de empresa.
    - Estilo de imágenes (fotografía, ilustración, gráficos SVG).  
 <br>    
 
-:six: **Espaciado y Layout**  
+6️⃣ **Espaciado y Layout**  
    - Márgenes y paddings para mantener una estructura uniforme.  
    - Breakpoints y diseño responsivo.
 <br>
 
-:seven: **Estilo de Interacciones**  
+7️⃣ **Estilo de Interacciones**  
    - Efectos de hover y transiciones.  
    - Animaciones y microinteracciones.  
    - animaciones visuales en formularios y botones.
 <br>
 
-:eight: **Accesibilidad**  
+8️⃣ **Accesibilidad**  
    - Buen contraste de colores.  
    - Uso correcto de etiquetas semánticas en HTML.  
    - Soporte para lectores de pantalla.
 
-:arrow_right: Lista no exhaustiva.
+**Nota:** Lista no exhaustiva.
+
 
 ## 6.2. - Tarea RA1-CEd
 Elegir una página web al azar y extraer la guía de estilos. 
 
 ## 6.3. - Ejemplos de guías de estilos 
-:one: **airbnb**
+1️⃣ **airbnb**
 
-![](./img/airbnb.png)
+<img src="./img/airbnb.png" width="50%">
 <br>
 <br>
 
