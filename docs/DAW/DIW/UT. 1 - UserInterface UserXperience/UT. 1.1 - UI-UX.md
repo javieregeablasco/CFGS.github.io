@@ -8,7 +8,7 @@ layout: default
 ---
   
 <div style="text-align: center">
-  <img src="./img/uiux.webp" width="75%">
+  <img alt="alt text" src="./img/uiux.webp" width="75%">
 </div>  
 
 <br>
@@ -41,7 +41,7 @@ Independientemente del dispositivo, la web representa la imagen de una entidad, 
 # 2. Evolución del diseño web
 
 <div style="text-align: center">
-  <img src="./img/evolucionhtml.png">
+  <img alt="alt text" src="./img/evolucionhtml.png">
 </div>
 
 <br>
@@ -107,7 +107,7 @@ Dentro de la IPO encontramos:
 ## 3.2. - Interfaz de Usuario (UI - User Interface)  
 
 <div style="text-align:center">
-  <img src="./img/ui.png" width="50%">
+  <img alt="alt text" src="./img/ui.png" width="50%">
 </div>
 
 <br>
@@ -124,7 +124,7 @@ La **Interfaz de Usuario** es el medio a través del cual los usuarios interact�
 ## 3.3. - Experiencia de Usuario (UX - User Experience) 
 
 <div style="text-align:center">
-  <img src="./img/ux.png" width="50%">
+  <img alt="alt text" src="./img/ux.png" width="50%">
 </div>
 <br>
 
@@ -142,14 +142,14 @@ La **interfaz web** o **interfaz de usuario** es el punto de interacción entre 
 
 Muchos de los componentes de una interfaz web, como la cabecera, los menús de navegación, el cuerpo, la barra lateral y el pie de página, se replican en la mayoría de los sitios web.  
 <div style="text-align:center">
-  <img src="./img/estructura.png" width="60%">
+  <img alt="alt text" src="./img/estructura.png" width="60%">
 </div>
 <br>
 
 Si convertimos esta estructura a código HTML, obtendremos el siguiente resultado.
 
 <div style="text-align:center">
-  <img src="./img/estructura2.png" width="60%">
+  <img alt="alt text" src="./img/estructura2.png" width="60%">
 </div>
 <br>
 
@@ -218,7 +218,7 @@ Dentro de los elementos del diseño de interfaces se distinguen cuatro grupos:
 **Los elementos conceptuales** son aquellos que son presentes en el diseño, pero que no son visibles a la vista. El punto, la línea, el plano y el volumen son la base del diseño y sobre ellos se asientan los otros elementos.
 
 <div style="text-align:center">
-  <img src="./img/conceptual.png" width="40%">
+  <img alt="alt text" src="./img/conceptual.png" width="40%">
 </div>
 
 <br>
@@ -227,14 +227,14 @@ Dentro de los elementos del diseño de interfaces se distinguen cuatro grupos:
 Identificar los elementos conceptuales de la siguiente página web.
 
 <div style="text-align:center">
-  <img src="./img/conceptualEjercicio.png">
+  <img alt="alt text" src="./img/conceptualEjercicio.png">
 </div>
 
 ## 5.2. - Elementos visuales
 En el diseño web, los elementos visuales fundamentales incluyen **forma, color, medida y textura**.  
 
 <div style="text-align:center">
-  <img src="./img/elementVisual.png" width="40%">
+  <img alt="alt text" src="./img/elementVisual.png" width="40%">
 </div>
 
 ### 5.2.1. - Forma  
@@ -242,7 +242,7 @@ Define la estructura visual de los elementos dentro de una página web. Puede se
 - **Geométrica**: Cuadrados, círculos, triángulos, usados en botones, iconos o tarjetas.
 
   <div style="text-align:center">
-    <a href="http://www.usefulsimple.co.uk/"><img src="./img/geometrica.png"></a>
+    <a href="http://www.usefulsimple.co.uk/"><img alt="alt text" src="./img/geometrica.png"></a>
   </div>
 
 <br>
@@ -250,7 +250,7 @@ Define la estructura visual de los elementos dentro de una página web. Puede se
 - **Orgánica**: Formas irregulares o naturales, aportan dinamismo y originalidad.  
 
   <div style="text-align:center">
-     <a href="http://www.sageblue.com/"><img src="./img/natural.png"></a>
+     <a href="http://www.sageblue.com/"><img alt="alt text" src="./img/natural.png"></a>
   </div>
 
 <br>
@@ -258,7 +258,7 @@ Define la estructura visual de los elementos dentro de una página web. Puede se
 - **Abstracta**: Se utilizan para generar impacto visual sin representar objetos reales.  
 
   <div style="text-align:center">
-     <a href="https://lovefreelancing.com/"><img src="./img/abstract.png"></a>
+     <a href="https://lovefreelancing.com/"><img alt="alt text" src="./img/abstract.png"></a>
   </div>
 
 <br>
@@ -268,7 +268,7 @@ Influye en la percepción y la emoción del usuario. Se utiliza para:
 - **Generar identidad visual** (branding).  
   
   <div style="text-align:center">
-     <img src="./img/color.png">
+     <img alt="alt text" src="./img/color.png">
   </div>
 
 <br>
@@ -276,7 +276,7 @@ Influye en la percepción y la emoción del usuario. Se utiliza para:
 - **Crear contrastes** y mejorar la accesibilidad.  
 
   <div style="text-align:center">
-     <img src="./img/contrast.png" width="35%">
+     <img alt="alt text" src="./img/contrast.png" width="35%">
   </div>
  
  <br>
@@ -284,7 +284,7 @@ Influye en la percepción y la emoción del usuario. Se utiliza para:
 - **Diferenciar secciones** o establecer jerarquías.  
 
   <div style="text-align:center">
-     <img src="./img/secciones.png">
+     <img alt="alt text" src="./img/secciones.png">
   </div>
 
 <br>
@@ -294,7 +294,7 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
 - **Tipografía**: Tamaños de fuente adaptables para distintos dispositivos o contenidos.
 
   <div style="text-align:center">
-     <img src="./img/fonsize.webp" width="75%">
+     <img alt="alt text" src="./img/fonsize.webp" width="75%">
   </div>
 
 <br>
@@ -302,7 +302,7 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
 - **Imágenes y gráficos**: Se escalan correctamente para mantener calidad y rendimiento.
 
   <div style="text-align:center">
-     <img src="./img/image.webp" width="75%" >
+     <img alt="alt text" src="./img/image.webp" width="75%" >
   </div>
 
 <br>
@@ -310,7 +310,7 @@ Hace referencia al tamaño y la escala de los elementos en una interfaz:
 - **Espaciado y proporción**: Márgenes, padding y grids permiten un diseño equilibrado.
 
   <div style="text-align:center">
-     <img src="./img/marginpadding.png">
+     <img alt="alt text" src="./img/marginpadding.png">
   </div>
 
 <br>
@@ -320,7 +320,7 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
 - **Fondos con degradados o patrones** para misterio y sofisticación.  
 
   <div style="text-align:center">
-    <img src="./img/degradados.jpg" width="75%">
+    <img alt="alt text" src="./img/degradados.jpg" width="75%">
   </div>
 
 <br>
@@ -328,7 +328,7 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
 - **Sombras y efectos de iluminación** para realismo.  
 
   <div style="text-align:center">
-    <img src="./img/iluminacion.gif">
+    <img alt="alt text" src="./img/iluminacion.gif">
   </div>
    
 <br>
@@ -337,7 +337,7 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
 - **Superposiciones y transparencias** para dinamismo.  
 
   <div style="text-align:center">
-    <img src="./img/superposicion.png" width="75%">
+    <img alt="alt text" src="./img/superposicion.png" width="75%">
   </div>
 
 <br>
@@ -348,7 +348,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 **Interfaz** 1️⃣
 
   <div style="text-align:center">
-    <img src="./img/ra1ceb1.png">
+    <img alt="alt text" src="./img/ra1ceb1.png">
   </div>
 
 <br>
@@ -368,7 +368,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 **Interfaz** 2️⃣
 
   <div style="text-align:center">
-    <img src="./img/ra1ceb2.png">
+    <img alt="alt text" src="./img/ra1ceb2.png">
   </div>
 
 <br>
@@ -376,7 +376,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 **Interfaz** 3️⃣
 
   <div style="text-align:center">
-    <img src="./img/ra1ceb3.png">
+    <img alt="alt text" src="./img/ra1ceb3.png">
   </div>
 
 <br>
@@ -384,7 +384,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 **Interfaz** 4️⃣
 
   <div style="text-align:center">
-    <img src="./img/ra1ceb4.png">
+    <img alt="alt text" src="./img/ra1ceb4.png">
   </div>
 
 <br>
@@ -392,7 +392,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 **Interfaz** 5️⃣
   
   <div style="text-align:center">
-    <img src="./img/ra1ceb5.png">
+    <img alt="alt text" src="./img/ra1ceb5.png">
   </div>
 
 <br>
@@ -400,7 +400,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 **Interfaz** 6️⃣
 
   <div style="text-align:center">
-    <img src="./img/ra1ceb6.png">
+    <img alt="alt text" src="./img/ra1ceb6.png">
   </div>
 
 <br>
@@ -408,7 +408,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 **Interfaz** 7️⃣
 
   <div style="text-align:center">
-    <img src="./img/ra1ceb7.png">
+    <img alt="alt text" src="./img/ra1ceb7.png">
   </div>
 
 <br>
@@ -416,7 +416,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 **Interfaz** 8️⃣
  
   <div style="text-align:center">
-    <img src="./img/ra1ceb8.png">
+    <img alt="alt text" src="./img/ra1ceb8.png">
   </div>
 
 <br>
@@ -424,7 +424,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 ## 5.3. - Elementos de relación
 Este grupo de elementos está relacionado con la ubicación y la interrelación de las formas dentro de una composición. La dirección y la posición pueden ser percibidas mientras que el espacio y la gravedad son sentidas.
   <div style="text-align:center">
-    <img src="./img/relacion.png" width="40%">
+    <img alt="alt text" src="./img/relacion.png" width="40%">
   </div>
   
   <br>
@@ -433,7 +433,7 @@ Este grupo de elementos está relacionado con la ubicación y la interrelación 
 - **Dirección:** Guía la mirada del usuario y se usa para organizar la información y definir el flujo de navegación (**Horizontal**, **vertical** y en **diagonal o Z**).   
   
   <div style="text-align:center">
-    <img src="./img/direccionZ.png">
+    <img alt="alt text" src="./img/direccionZ.png">
   </div>
   
   <br>
@@ -442,7 +442,7 @@ Este grupo de elementos está relacionado con la ubicación y la interrelación 
 - **Posición:** La posición define dónde se colocan los elementos en la pantalla en relación con otros. Esto afecta la usabilidad y la coherencia visual.  
   
   <div style="text-align:center">
-    <img src="./img/posicion.png">
+    <img alt="alt text" src="./img/posicion.png">
   </div>
   
   <br>
@@ -451,7 +451,7 @@ Este grupo de elementos está relacionado con la ubicación y la interrelación 
 - **Espacio:** El espacio (white space) es fundamental para la legibilidad y la organización del contenido.  
 
   <div style="text-align:center">
-    <img src="./img/espacio.png">
+    <img alt="alt text" src="./img/espacio.png">
   </div>
   
   <br>
@@ -467,7 +467,7 @@ Este grupo de elementos está relacionado con la ubicación y la interrelación 
 En el diseño web, los **elementos prácticos** son aquellos que van más allá de la estética y se centran en la comunicación y la experiencia del usuario. Estos incluyen, entre otros, la representación, el significado y la función
 
   <div style="text-align:center">
-    <img src="./img/elementosPracticos.png">
+    <img alt="alt text" src="./img/elementosPracticos.png">
   </div>
   
   <br>
@@ -476,7 +476,7 @@ En el diseño web, los **elementos prácticos** son aquellos que van más allá 
 - **Representación:** Se refiere a cómo se presentan los elementos visuales en la interfaz y su relación con la realidad o la abstracción.
   
   <div style="text-align:center">
-    <img src="./img/representacion.png">
+    <img alt="alt text" src="./img/representacion.png">
   </div>
   
   <br>
@@ -485,7 +485,7 @@ En el diseño web, los **elementos prácticos** son aquellos que van más allá 
 - **Significado:** Es el mensaje o la idea que transmite un elemento dentro del diseño. Puede ser, **explícito** o **implícito**. 
 
   <div style="text-align:center">
-    <img src="./img/significado.png">
+    <img alt="alt text" src="./img/significado.png">
   </div>
   
   <br>
@@ -494,7 +494,7 @@ En el diseño web, los **elementos prácticos** son aquellos que van más allá 
 - **Función:** Es el propósito práctico de cada elemento en la interfaz y cómo contribuye a la experiencia del usuario. La función puede ser **informativa**, **interactiva** o **estructural**.
 
   <div style="text-align:center">
-    <img src="./img/funcion.png">
+    <img alt="alt text" src="./img/funcion.png">
   </div>
   
   <br>
@@ -504,7 +504,7 @@ En el diseño web, los **elementos prácticos** son aquellos que van más allá 
 ## 5.5. - Patrones de diseño, psicología de la Gestalt
 
   <div style="text-align:center">
-    <img src="./img/gestals.png">
+    <img alt="alt text" src="./img/gestals.png">
   </div>
   
   <br>
@@ -787,7 +787,7 @@ Elegir una página web al azar y extraer la guía de estilos.
 ## 6.3. - Ejemplos de guías de estilos 
 1️⃣ **airbnb**
 
-<img src="./img/airbnb.png" width="50%">
+<img alt="alt text" src="./img/airbnb.png" width="50%">
 <br>
 <br>
 
