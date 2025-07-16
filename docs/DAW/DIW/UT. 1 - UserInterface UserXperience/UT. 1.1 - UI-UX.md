@@ -180,27 +180,27 @@ Son los elementos encargados de organizar la información y permiten acceder de 
 ## 4.3. - Elementos de ordenación de contenidos  
 Son los componentes que presentan la información al usuario:  
 
-🔹📝 **Encabezados y texto**: Estructuran la jerarquía del contenido.  
-🔹📸 **Imágenes e íconos**: Refuerzan el mensaje visual y mejoran la estética del sitio.  
-🔹🎬 **Videos y multimedia**: Se utilizan para presentar información de manera más dinámica.  
-🔹📂 **Tablas y listas**: Organizan la información en formatos estructurados.  
+- **Encabezados y texto**: Estructuran la jerarquía del contenido.  
+- **Imágenes e íconos**: Refuerzan el mensaje visual y mejoran la estética del sitio.  
+- **Videos y multimedia**: Se utilizan para presentar información de manera más dinámica.  
+- **Tablas y listas**: Organizan la información en formatos estructurados.  
 
 ## 4.4. - Elementos Interactivos  
 Facilitan la interacción del usuario con la web, entre ellos tenemos:  
 
-🔹🖱 **Botones**: Permiten realizar acciones como enviar formularios o navegar entre páginas.  
-🔹📩 **Formularios y campos de entrada**: Recolectan la información del usuario y realizan consultas a bases de datos.  
-🔹🔁 **Sliders y carruseles**: Muestran contenido de forma dinámica en un espacio reducido.  
-🔹📌 **Pestañas y acordeones**: Organizan contenido en secciones colapsables para mejorar la usabilidad.  
-🔹🎛 **Modales y pop-ups**: Ventanas emergentes que muestran información adicional o alertas.  
+- **Botones**: Permiten realizar acciones como enviar formularios o navegar entre páginas.  
+- **Formularios y campos de entrada**: Recolectan la información del usuario y realizan consultas a bases de datos.  
+- **Sliders y carruseles**: Muestran contenido de forma dinámica en un espacio reducido.  
+- **Pestañas y acordeones**: Organizan contenido en secciones colapsables para mejorar la usabilidad.  
+- **Modales y pop-ups**: Ventanas emergentes que muestran información adicional o alertas.  
 
 
 ## 4.5. - Elementos de Retroalimentación  
 En todo momento, informan al usuario del estado de sus acciones o consultas:  
 
-🔹✅ **Mensajes de éxito o error**: Notificaciones sobre el resultado de una acción, como el envío de un formulario.  
-🔹📢 **Tooltips y ayudas**: Pequeños textos emergentes que explican el uso de un elemento.  
-🔹🔄 **Indicadores de carga (Spinners, progress bars)**: Informan sobre el estado de procesos en ejecución.  
+- **Mensajes de éxito o error**: Notificaciones sobre el resultado de una acción, como el envío de un formulario.  
+- **Tooltips y ayudas**: Pequeños textos emergentes que explican el uso de un elemento.  
+- **Indicadores de carga (Spinners, progress bars)**: Informan sobre el estado de procesos en ejecución.  
 
 ## 4.6. - Tarea RA1-CEa
 Elige una página web comercial e identifica sus diferentes componentes.
