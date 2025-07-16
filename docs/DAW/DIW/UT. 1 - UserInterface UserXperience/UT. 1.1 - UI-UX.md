@@ -352,8 +352,20 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
   </div>
 
 <br>
+<!-- | Emoji | Código Markdown (pegar directamente) |
+| ----- | ------------------------------------ |
+| 1️⃣   | `1️⃣`                                |
+| 2️⃣   | `2️⃣`                                |
+| 3️⃣   | `3️⃣`                                |
+| 4️⃣   | `4️⃣`                                |
+| 5️⃣   | `5️⃣`                                |
+| 6️⃣   | `6️⃣`                                |
+| 7️⃣   | `7️⃣`                                |
+| 8️⃣   | `8️⃣`                                |
+| 9️⃣   | `9️⃣`                                |
+| 🔟    | `🔟`                                 | -->
 
-**Interfaz** :two:
+**Interfaz** 2️⃣
 
   <div style="text-align:center">
     <img src="./img/ra1ceb2.png">
@@ -361,7 +373,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 
 <br>
 
-**Interfaz** :three:
+**Interfaz** 3️⃣
 
   <div style="text-align:center">
     <img src="./img/ra1ceb3.png">
@@ -369,7 +381,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 
 <br>
 
-**Interfaz** :four:
+**Interfaz** 4️⃣
 
   <div style="text-align:center">
     <img src="./img/ra1ceb4.png">
@@ -377,7 +389,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 
 <br>
 
-**Interfaz** :five:
+**Interfaz** 5️⃣
   
   <div style="text-align:center">
     <img src="./img/ra1ceb5.png">
@@ -385,7 +397,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 
 <br>
 
-**Interfaz** :six:
+**Interfaz** 6️⃣
 
   <div style="text-align:center">
     <img src="./img/ra1ceb6.png">
@@ -393,7 +405,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 
 <br>
 
-**Interfaz** :seven:
+**Interfaz** 7️⃣
 
   <div style="text-align:center">
     <img src="./img/ra1ceb7.png">
@@ -401,7 +413,7 @@ Identificar los errores visuales de las siguientes interfaces web. Comentar el t
 
 <br>
 
-**Interfaz** :eight:
+**Interfaz** 8️⃣
  
   <div style="text-align:center">
     <img src="./img/ra1ceb8.png">
