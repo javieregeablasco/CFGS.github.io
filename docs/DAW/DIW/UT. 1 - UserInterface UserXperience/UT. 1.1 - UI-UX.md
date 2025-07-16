@@ -536,7 +536,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/simetria.png)
     <br><br>
     
-    **Contenidos** organizados de forma simetrica.  
+- **Contenidos** organizados de forma simetrica.  
     
     ![alt text](./img/simetria2.png)
     <br><br>
@@ -547,7 +547,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/proximidad.png)
     <br><br>
     
-    **Organización de contenidos** siguiendo el principio de proximidad. 
+- **Organización de contenidos** siguiendo el principio de proximidad. 
     
     ![alt text](./img/proximidad2.png)
     <br><br>
@@ -558,7 +558,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/similitud.png)
     <br><br>
     
-    **Similitud** entre 2 secciones de precios.  
+- **Similitud** entre 2 secciones de precios.  
     
     ![alt text](./img/similitud2.png)
     <br><br>
@@ -569,7 +569,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/continuidad.png)
     <br><br>
     
-    **Percepción de continuidad** del carrusel a pesar de la interrupción abrupta de los contenidos.
+- **Percepción de continuidad** del carrusel a pesar de la interrupción abrupta de los contenidos.
     
     ![alt text](./img/continuidad2.png)
     <br><br>
@@ -580,7 +580,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/simplicidad.png)
     <br><br>
     
-    **Página simplificada** al máximo para evitar de crear malestar entre los posibles clientes.
+- **Página simplificada** al máximo para evitar de crear malestar entre los posibles clientes.
     
     ![alt text](./img/simplicidad2.png)
     <br><br>
@@ -591,7 +591,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/comun.png)
     <br><br>
     
-    **Las flechas del carrusel** no indican la posibilidad de movimiento horizontal del elemento.  
+- **Las flechas del carrusel** no indican la posibilidad de movimiento horizontal del elemento.  
     
     ![alt text](./img/comun2.png)
     <br><br>
@@ -602,7 +602,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/figurafondo.png)
     <br><br>
 
-    **El contraste entre figura y fondo** nos hace separar el elemento principal del resto de la imagen.
+- **El contraste entre figura y fondo** nos hace separar el elemento principal del resto de la imagen.
     
     ![alt text](./img/figurafondo2.png)
     <br><br>
@@ -613,7 +613,7 @@ La Gestalt propone una serie de principios que explican cómo organizamos la inf
     ![alt text](./img/cierre.png)
     <br><br>
     
-    **El contraste de las flechas** nos hace entender que falta información en la página web. 
+- **El contraste de las flechas** nos hace entender que falta información en la página web. 
     
     ![alt text](./img/cierre2.png) 
     <br><br>
