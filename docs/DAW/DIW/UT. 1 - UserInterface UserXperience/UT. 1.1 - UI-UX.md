@@ -426,24 +426,36 @@ Este grupo de elementos está relacionado con la ubicación y la interrelación 
   <div style="text-align:center">
     <img src="./img/relacion.png" width="40%">
   </div>
+  
   <br>
   <br>
 
-- **Dirección:** Guía la mirada del usuario y se usa para organizar la información y definir el flujo de navegación. Existen tres tipos principales: **Horizontal**, **vertical** y en **diagonal o Z**.   
-
-    ![alt text](./img/direccionZ.png)
-<br>
+- **Dirección:** Guía la mirada del usuario y se usa para organizar la información y definir el flujo de navegación (**Horizontal**, **vertical** y en **diagonal o Z**).   
+  
+  <div style="text-align:center">
+    <img src="./img/direccionZ.png">
+  </div>
+  
+  <br>
+  <br>
 
 - **Posición:** La posición define dónde se colocan los elementos en la pantalla en relación con otros. Esto afecta la usabilidad y la coherencia visual.  
-
-    ![alt text](./img/posicion.png)
-<br>
-
+  
+  <div style="text-align:center">
+    <img src="./img/posicion.png">
+  </div>
+  
+  <br>
+  <br>
 
 - **Espacio:** El espacio (white space) es fundamental para la legibilidad y la organización del contenido.  
+
+  <div style="text-align:center">
+    <img src="./img/espacio.png">
+  </div>
   
-    ![alt text](./img/espacio.jpg)
-<br>
+  <br>
+  <br>
 
 - **Gravedad:** La gravedad visual se refiere a la percepción del peso de los elementos en un diseño. Algunos factores que influyen en ella son: **Tamaño y color**, **sombra y profundidad** y **equilibrio visual**. 
 
@@ -454,29 +466,49 @@ Este grupo de elementos está relacionado con la ubicación y la interrelación 
 ## 5.4. - Elementos prácticos
 En el diseño web, los **elementos prácticos** son aquellos que van más allá de la estética y se centran en la comunicación y la experiencia del usuario. Estos incluyen, entre otros, la representación, el significado y la función
 
-<div align=center>
-  <!-- <img src="./img/elementosPracticos.png" width="40%"> -->
-</div>
-<br>
-<br>
+  <div style="text-align:center">
+    <img src="./img/elementosPracticos.png">
+  </div>
+  
+  <br>
+  <br>
 
 - **Representación:** Se refiere a cómo se presentan los elementos visuales en la interfaz y su relación con la realidad o la abstracción.
-
-    ![alt text](./img/representacion.png)
-<br>
+  
+  <div style="text-align:center">
+    <img src="./img/representacion.png">
+  </div>
+  
+  <br>
+  <br>
 
 - **Significado:** Es el mensaje o la idea que transmite un elemento dentro del diseño. Puede ser, **explícito** o **implícito**. 
 
-    ![alt text](./img/significado.png)
-<br>
+  <div style="text-align:center">
+    <img src="./img/significado.png">
+  </div>
+  
+  <br>
+  <br>
 
 - **Función:** Es el propósito práctico de cada elemento en la interfaz y cómo contribuye a la experiencia del usuario. La función puede ser **informativa**, **interactiva** o **estructural**.
 
-    ![alt text](./img/funcion.png)
-<br>
+  <div style="text-align:center">
+    <img src="./img/funcion.png">
+  </div>
+  
+  <br>
+  <br>
+
 
 ## 5.5. - Patrones de diseño, psicología de la Gestalt
-![alt text](./img/gestals.png)
+
+  <div style="text-align:center">
+    <img src="./img/gestals.png">
+  </div>
+  
+  <br>
+  <br>
 
 ### 5.5.1. - Introducción
 La psicología de la Gestalt es una corriente de la psicología moderna, surgida en Alemania a principios del siglo XX, cuyos exponentes más reconocidos fueron Max Wertheimer, Wolfgang Köhler, Kurt Koffka​ y Kurt Lewin.
