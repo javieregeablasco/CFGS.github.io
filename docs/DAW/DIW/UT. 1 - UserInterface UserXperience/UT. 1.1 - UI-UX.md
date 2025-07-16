@@ -245,7 +245,7 @@ Define la estructura visual de los elementos dentro de una página web. Puede se
     <a href="http://www.usefulsimple.co.uk/"><img src="./img/geometrica.png"></a>
   </div>
 
-<br>
+
 <br>
 
 - **Orgánica**: Formas irregulares o naturales, aportan dinamismo y originalidad.  
@@ -254,7 +254,7 @@ Define la estructura visual de los elementos dentro de una página web. Puede se
      <a href="http://www.sageblue.com/"><img src="./img/natural.png"></a>
   </div>
 
-<br>
+
 <br>
 
 - **Abstracta**: Se utilizan para generar impacto visual sin representar objetos reales.  
@@ -263,7 +263,7 @@ Define la estructura visual de los elementos dentro de una página web. Puede se
      <a href="https://lovefreelancing.com/"><img src="./img/abstract.png"></a>
   </div>
 
-<br>
+
 <br>
 
 ### 5.2.2. - Color  
