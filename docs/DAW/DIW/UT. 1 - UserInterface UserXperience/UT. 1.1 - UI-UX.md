@@ -344,7 +344,6 @@ Aunque el diseño web es bidimensional, se pueden simular texturas para dar prof
   </div>
 
 <br>
-<br>
 
 ### 5.2.5. - Tarea RA1-CEc  
 Identificar los errores visuales de las siguientes interfaces web. Comentar el tipo de error encontrado.   
